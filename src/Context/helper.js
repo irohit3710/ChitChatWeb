@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://chitchatbackend-6cjq.onrender.com'

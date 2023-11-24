@@ -7,7 +7,7 @@ import axios from "axios";
 import { useToast } from "@chakra-ui/react";
 import { useHistory } from "react-router-dom";
 import { ChatState } from "../../Context/ChatProvider";
-
+import { BASE_URL } from "../../Context/helper";
 const Login = () => {
   const [show, setShow] = useState(false);
   const handleClick = () => setShow(!show);
@@ -41,7 +41,7 @@ const Login = () => {
       };
 
       const { data } = await axios.post(
-        "/api/user/login",
+        `${BASE_URL}/api/user/login`,
         { email, password },
         config
       );
@@ -69,7 +69,7 @@ const Login = () => {
       setLoading(false);
     }
   };
-
+  console.log(BASE_URL)
   return (
     <VStack spacing="10px">
       <FormControl id="email" isRequired>
