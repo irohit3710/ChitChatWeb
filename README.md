@@ -2,6 +2,8 @@
 
 <p id="description">ChitChatWeb is a full-stack chat application built with the MERN stack (MongoDB Express.js React.js Node.js). This real-time chat app allows users to communicate with each other in a seamless and interactive way. ChitChatWeb leverages the power of MongoDB to store messages and user data while the Express.js and Node.js backend provide a robust server and the React.js frontend offers a modern and responsive user interface.</p>
 
+[Backend Code Repository](https://github.com/irohit3710/ChatBackend)
+
 <h2>🚀 Demo</h2>
 
 [https://chat-frontend-liart.vercel.app/](https://chat-frontend-liart.vercel.app/)
