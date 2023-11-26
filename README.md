@@ -1,4 +1,48 @@
-# Getting Started with Create React App
+<h1 align="center" id="title">ChitChat Web</h1>
+
+<p id="description">ChitChatWeb is a full-stack chat application built with the MERN stack (MongoDB Express.js React.js Node.js). This real-time chat app allows users to communicate with each other in a seamless and interactive way. ChitChatWeb leverages the power of MongoDB to store messages and user data while the Express.js and Node.js backend provide a robust server and the React.js frontend offers a modern and responsive user interface.</p>
+
+<h2>🚀 Demo</h2>
+
+[https://chat-frontend-liart.vercel.app/](https://chat-frontend-liart.vercel.app/)
+
+<h2>Project Screenshots:</h2>
+
+<img src="https://i.postimg.cc/vBK6ccLV/Screenshot-107.png" alt="project-screenshot" width="400" height="400/">
+
+<img src="https://i.postimg.cc/5txzGc26/Screenshot-108.png" alt="project-screenshot" width="400" height="400/">
+
+<img src="https://i.postimg.cc/GpqDnM4z/Screenshot-109.png" alt="project-screenshot" width="400" height="400/">
+
+<img src="https://i.postimg.cc/t4dP2RyK/Screenshot-110.png" alt="project-screenshot" width="400" height="400/">
+
+<img src="https://i.postimg.cc/gJjZzvRp/Screenshot-111.png" alt="project-screenshot" width="400" height="400/">
+
+  
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   User Authentication :- Secure your chat with user authentication to ensure a personalized experience.
+*   Message History :- Access and view your chat history even after logging out.
+*   Real-Time Messaging :- Enjoy instant messaging with other users in real time.
+*   Responsive Design :- ChitChatWeb is designed to work seamlessly on various devices from desktops to mobile phones.
+*   MongoDB Integration :- Utilizes MongoDB to store user data and chat messages securely.
+*   Group Chat :- ChitChat also support group chat and group admin can add or remove from group chat.
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   React JS
+*   CSS
+*   Express JS
+*   MongoDB Atlas
+
+# Installation Steps
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
